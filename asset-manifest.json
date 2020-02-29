@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.519a8c06.chunk.css",
+    "main.js": "/static/js/main.f5c95bb7.chunk.js",
+    "main.js.map": "/static/js/main.f5c95bb7.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.26c7fcf3.js",
+    "runtime-main.js.map": "/static/js/runtime-main.26c7fcf3.js.map",
+    "static/js/2.8366a7ae.chunk.js": "/static/js/2.8366a7ae.chunk.js",
+    "static/js/2.8366a7ae.chunk.js.map": "/static/js/2.8366a7ae.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.203ad6e0d33a12b0e64ebf80c3e2e507.js": "/precache-manifest.203ad6e0d33a12b0e64ebf80c3e2e507.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.519a8c06.chunk.css.map": "/static/css/main.519a8c06.chunk.css.map",
+    "static/js/2.8366a7ae.chunk.js.LICENSE.txt": "/static/js/2.8366a7ae.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/Highest-Mountain-In-The-World.0c796388.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.26c7fcf3.js",
+    "static/js/2.8366a7ae.chunk.js",
+    "static/css/main.519a8c06.chunk.css",
+    "static/js/main.f5c95bb7.chunk.js"
+  ]
+}
